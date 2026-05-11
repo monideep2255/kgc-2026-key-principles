@@ -12,6 +12,33 @@ A single-page synthesis of ten foundational principles for trustworthy AI with k
 
 Not a transcript or a session-by-session recap. Speaker quotes, slides, and session content belong to the speakers and the conference. The principles here are abstractions in my own words.
 
+## Sources
+
+The 20 sessions I attended at KGC 2026 that fed into the synthesis. Titles match the official session listings on the conference site.
+
+| Day | Session | Speaker(s) | Affiliation |
+|-----|---------|-----------|-------------|
+| May 04 | Designing Agent-Driven GraphRAG Systems with GNNs for High-Trust Healthcare AI | Giuseppe Futia | CSI Piemonte (Italy) |
+| May 04 | RDFox Semantic Reasoning Workshop Overview | Diana Marks | Oxford Semantic Technologies |
+| May 04 | Vector Search + Knowledge Graphs in Oracle AI Database. Using SQL. | Melli Annamalai, Matthew Perry, Shreya Pandey | Oracle |
+| May 04 | AI Agents and Semantic Reasoning Workshop | Sean, Nafi, Don Simpson, Hal Cooper | AWS, Amazon Neptune |
+| May 05 | Semantic RAG in Practice: Building Accurate, Enterprise-Grade GenAI with Knowledge Graphs and Multi-Model Data | Jim Morris, Drew Wanczowski | Progress Software |
+| May 05 | Semantic Data Products in Practice: Hands-on with DPROD and Enterprise Information Architecture | Thomas Kaminski, Tony Seale | Metaphacts, The Knowledge Graph Guys |
+| May 05 | Building Knowledge Maps: Evidence-First Knowledge Graphs for Unstructured Data | Weidong Yang | Kineviz, Inc. |
+| May 06 | Front Runner's Guide to Scaling AI and Role of Semantic Layer | Richard Weng | Accenture |
+| May 06 | Ask-A-Graph: A Principled Approach to Natural Language Graph Querying Through LLM-Orchestrated Entity Resolution and Schema-Aware Cypher Generation | Ryan Chandler | AbbVie |
+| May 06 | Engineering the Enterprise Semantic Layer | Thomas Kaminski | Metaphacts |
+| May 06 | Ontologists Taking Their Own Medicine: Personal Graph Building Journey | Casey | (independent) |
+| May 06 | Bridging Knowledge Graphs and Data Management: How Ontologists and CDOs Win Together | Charles Ivie | Ortecha |
+| May 06 | Lessons Learned from 25 Years in Semantics: Building the Cognitive Backbone of the Enterprise | Evren Sirin | Stardog |
+| May 07 | The Spatial Web as a Knowledge Graph: Modeling Reality, Behavior, and Trust | Stephane Fellah | Geoknoesis LLC |
+| May 07 | Grounding LLMs in Domain Knowledge: Hybrid KG Architectures for Reliable Industrial Recommendations | Anahita Pakiman | Amazon |
+| May 07 | Ontology Generation with LLMs: Evaluation Framework and Quality Metrics | Anahita Pakiman, Nikos Trokanas | Amazon, Scania |
+| May 07 | From Data to Decisions: How Marketer.com Used Knowledge Graphs and Reasoning to Build Trustworthy AI | Peter Crocker, Krisztián Szabó | Oxford Semantic Technologies, Marketer.com |
+| May 07 | Migrating from Hierarchies to a Graph: An Enterprise Case Study | John Tulinsky, Bram Wessel | Factor |
+| May 07 | The Context Layer: Knowledge Graphs' Second Act | Prukalpa Sankar | Atlan |
+| May 08 | KGC 2026 Tools and Demos Track | Multiple presenters (12 tool demos) | Process Tempo, Triven, Graph Research Labs, Stardog, Northeastern, Lettria, Tom Sawyer, and others |
+
 ## How the key principles sheet was created
 
 I attended 20 sessions at KGC 2026 over five days. For each session I had a mix of written notes (typed during or shortly after) and voice memos (recorded between sessions). I wanted to compress that raw material into something I could use in five minutes. Here is the process I ran:
